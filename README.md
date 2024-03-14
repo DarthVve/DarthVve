@@ -15,8 +15,6 @@
 </span>
 </h3>
 
-###
-
 <img src="https://raw.githubusercontent.com/DarthVve/DarthVve/output/snake.svg" alt="Snake animation" />
 
 ###
