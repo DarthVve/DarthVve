@@ -8,15 +8,15 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthvve&" alt="darthvve" /></p>
 
-###
-
-<img src="https://raw.githubusercontent.com/DarthVve/DarthVve/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Connect:  
 <span >
 <a href="https://twitter.com/elitistdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elitistdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viremaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viremaj" height="30" width="40" /></a>
 </span>
 </h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/DarthVve/DarthVve/output/snake.svg" alt="Snake animation" />
+
+###
